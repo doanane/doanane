@@ -441,6 +441,34 @@ More projects are in active development across healthcare, civic tech, enterpris
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Contribution Activity</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0d0d0d&color=00f5ff&line=f72585&point=ffffff&area=true&area_color=7b2ff720&hide_border=false&border_color=7b2ff7&radius=8&custom_title=Desmond%20Opoku%20Anane%20%E2%80%94%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Commits%20pushed%20to-Multiple%20Organisations-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/Consistency-Daily%20Builder-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/Work%20Style-Iterative%20%26%20Agile-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
 <h2>Connect With Me</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
 </div>
