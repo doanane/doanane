@@ -66,7 +66,6 @@ I am a passionate Full-Stack Software Engineer with hands-on experience designin
 <br/>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -86,7 +85,6 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -102,9 +100,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <div align="center">
 
 <img src="https://img.shields.io/badge/LANGUAGES-0d0d0d?style=for-the-badge&labelColor=7b2ff7&color=7b2ff7" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -120,9 +116,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FRONTEND%20%26%20MOBILE-0d0d0d?style=for-the-badge&labelColor=f107a3&color=f107a3" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -138,9 +132,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BACKEND%20%26%20APIS-0d0d0d?style=for-the-badge&labelColor=00fff7&color=00fff7" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -154,9 +146,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <br/><br/>
 
 <img src="https://img.shields.io/badge/DATABASES-0d0d0d?style=for-the-badge&labelColor=7b2ff7&color=7b2ff7" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -172,9 +162,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <br/><br/>
 
 <img src="https://img.shields.io/badge/DEVOPS%20%26%20INFRASTRUCTURE-0d0d0d?style=for-the-badge&labelColor=f107a3&color=f107a3" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -190,9 +178,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <br/><br/>
 
 <img src="https://img.shields.io/badge/TOOLS%20%26%20WORKFLOW-0d0d0d?style=for-the-badge&labelColor=ffb347&color=ffb347" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -220,7 +206,6 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 <div align="center">
 <table>
 <tr>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/PROJECT%2001-Birth%20%26%20Death%20Registration%20Backend-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -238,7 +223,6 @@ A production-grade civic digital infrastructure system for Ghana's birth and dea
 <img src="https://img.shields.io/badge/View%20Repository-birth--and--death--fyp%2FBackend-00fff7?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d" />
 </a>
 </td>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/PROJECT%2002-Birth%20%26%20Death%20Registration%20Frontend-f107a3?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -247,8 +231,6 @@ A production-grade civic digital infrastructure system for Ghana's birth and dea
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square" />
 <br/><br/>
 The citizen-facing React web application for the registration system. A responsive portal for citizens and government officers to submit, track, and retrieve official civil records connected to the Django backend.
 <br/><br/>
@@ -256,10 +238,8 @@ The citizen-facing React web application for the registration system. A responsi
 <img src="https://img.shields.io/badge/View%20Repository-birth--and--death--fyp%2Ffrontend-f107a3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/PROJECT%2003-Kwanpa%20Health%20Service%20Platform-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -268,16 +248,13 @@ The citizen-facing React web application for the registration system. A responsi
 <img src="https://img.shields.io/badge/Healthcare-00fff7?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square" />
 <br/><br/>
-A digital health services platform for Kwanpa that streamlines medical service delivery. Manages patient records, service requests, and health data with a Python backend and a live GitHub Pages deployment.
+A digital health services platform for Kwanpa that streamlines medical service delivery. Manages patient records, service requests, and health data with a Python backend and live GitHub Pages deployment.
 <br/><br/>
 <a href="https://github.com/doanane/Kwanpa-Health-Service">
 <img src="https://img.shields.io/badge/View%20Repository-doanane%2FKwanpa--Health--Service-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
 </td>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/PROJECT%2004-GETA%20Solutions%20Enterprise%20Backend-ffb347?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -286,19 +263,15 @@ A digital health services platform for Kwanpa that streamlines medical service d
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Enterprise-ffb347?style=flat-square" />
 <br/><br/>
-Enterprise-grade backend for GETA Solutions developed under AB Associates Consulting. Handles multi-tenant business logic, third-party integrations, and scalable data pipelines at consulting scale using a Node.js architecture.
+Enterprise-grade backend for GETA Solutions developed under AB Associates Consulting. Handles multi-tenant business logic, third-party integrations, and scalable data pipelines at consulting scale.
 <br/><br/>
 <a href="https://github.com/AB-Associates-Consulting/GETA-Solutions-backend">
 <img src="https://img.shields.io/badge/View%20Repository-AB--Associates%2FGETA--backend-ffb347?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d" />
 </a>
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/PROJECT%2005-CorisMeso%20Web%20Frontend-3178C6?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -307,16 +280,13 @@ Enterprise-grade backend for GETA Solutions developed under AB Associates Consul
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/RunApp%20Tech-250840480?style=flat-square" />
 <br/><br/>
-A modern web frontend for the CorisMeso platform built under RunApp Tech. Engineered with TypeScript for strong type safety and maintainability, delivering a fast, responsive and polished user experience across devices.
+A modern web frontend for the CorisMeso platform built under RunApp Tech. Engineered with TypeScript for strong type safety and maintainability, delivering a fast and responsive user experience.
 <br/><br/>
 <a href="https://github.com/RunApp-Tech/CorisMesoWebFrontend">
 <img src="https://img.shields.io/badge/View%20Repository-RunApp--Tech%2FCorisMesoWebFrontend-3178C6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
 </td>
-
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/MORE%20PROJECTS-Coming%20Soon-444444?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
@@ -332,20 +302,19 @@ More projects are in active development across healthcare, civic tech, enterpris
 <img src="https://img.shields.io/badge/View%20All%20Repositories-%40doanane-444444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
 </td>
-
 </tr>
 </table>
 </div>
 
 ---
 
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
-<h2>GitHub Statistics</h2>
+<h2>Live GitHub Statistics</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
 </div>
+
+<!-- AUTO-UPDATED BY GITHUB ACTIONS EVERY 6 HOURS AND ON EVERY PUSH -->
 
 <br/>
 
@@ -379,40 +348,10 @@ More projects are in active development across healthcare, civic tech, enterpris
 <img src="https://img.shields.io/badge/Public%20Repos-0-f107a3?style=for-the-badge&labelColor=0d0d0d" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Private%20Repos-0-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/All%20Repos-0-ffb347?style=for-the-badge&labelColor=0d0d0d" />
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Last%20Updated-never-444444?style=for-the-badge&labelColor=0d0d0d" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LANGUAGE%20BREAKDOWN-0d0d0d?style=for-the-badge&labelColor=7b2ff7&color=7b2ff7" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/TypeScript-20%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Java-10%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Other-5%25-444444?style=for-the-badge&labelColor=0d0d0d" />
 </td>
 </tr>
 </table>
@@ -444,34 +383,6 @@ More projects are in active development across healthcare, civic tech, enterpris
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doanane/doanane/output/snake-light.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/doanane/doanane/output/snake-dark.svg" width="98%" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
-<h2>Contribution Activity</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0d0d0d&color=00f5ff&line=f72585&point=ffffff&area=true&area_color=7b2ff720&hide_border=false&border_color=7b2ff7&radius=8&custom_title=Desmond%20Opoku%20Anane%20%E2%80%94%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Commits%20pushed%20to-Multiple%20Organisations-00fff7?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/badge/Consistency-Daily%20Builder-f107a3?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/badge/Work%20Style-Iterative%20%26%20Agile-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
