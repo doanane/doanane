@@ -1,368 +1,518 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     DESMOND OPOKU ANANE — GITHUB PROFILE                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--              DESMOND OPOKU ANANE — ULTRA PROFILE README v2.0              -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Desmond%20Opoku%20Anane&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- ── ANIMATED NEON HEADER ────────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,30:7b2ff7,60:f72585,100:00f5ff&height=250&section=header&text=DESMOND%20OPOKU%20ANANE&fontSize=52&fontColor=ffffff&fontAlignY=42&stroke=00f5ff&strokeWidth=2&desc=Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20DevOps%20Practitioner&descSize=17&descAlignY=62&animation=twinkling" />
 
-<!-- Animated Typing SVG -->
+</div>
+
+<!-- ── LIVE TYPING BANNER ──────────────────────────────────────────────── -->
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=43C6AC&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+backends+with+Python+%26+Java;Crafting+beautiful+frontends+with+React;Shipping+production-ready+apps+with+Docker;Designing+systems+that+actually+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=780&lines=const+dev+%3D+%22Desmond+Opoku+Anane%22;Architect+of+scalable+backends+%F0%9F%94%A5;React+%7C+React+Native+%7C+Next.js+Engineer;Python+%7C+Java+%7C+JavaScript+developer;Docker+%E2%86%92+CI%2FCD+%E2%86%92+Production+%E2%9C%85;Building+systems+that+actually+work." alt="Typing SVG" />
 </a>
 
+</div>
+
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=doanane&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS" />
+<!-- ── STATUS BADGES ───────────────────────────────────────────────────── -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=doanane&style=for-the-badge&color=7b2ff7&labelColor=0d0d0d&label=PROFILE+VIEWS)
 &nbsp;
-<img src="https://img.shields.io/github/followers/doanane?style=for-the-badge&color=203a43&labelColor=0f2027&label=FOLLOWERS" />
+![GitHub followers](https://img.shields.io/github/followers/doanane?style=for-the-badge&color=f72585&labelColor=0d0d0d&label=FOLLOWERS)
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-43C6AC?style=for-the-badge&labelColor=0f2027" />
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00f5ff?style=for-the-badge&labelColor=0d0d0d)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-YES-39ff14?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
+
+<br/>
 
 ---
 
-<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                            WHO AM I                                       -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f72585&height=3&section=header" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-## About Me
+# `< WHO AM I />`
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   const developer = {                                                    ║
-║     name     : "Desmond Opoku Anane",                                    ║
-║     handle   : "@doanane",                                               ║
-║     focus    : ["Backend Systems", "Full-Stack Apps", "DevOps"],         ║
-║     languages: ["Python", "Java", "JavaScript"],                         ║
-║     currently: "Building production-grade healthcare & civic tech",      ║
-║     available: true                                                      ║
-║   };                                                                     ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-I am a passionate **Full-Stack Software Engineer** with hands-on experience designing, building, and deploying real-world applications across healthcare, civic services, and enterprise consulting platforms.
+```yaml
+identity:
+  name        : "Desmond Opoku Anane"
+  alias       : "@doanane"
+  role        : "Full-Stack Software Engineer"
+  location    : "Ghana"
+  passion     : "Building things that matter"
 
-My work spans the full development lifecycle — from architecting clean REST APIs and microservices, to shipping polished mobile and web frontends, to containerising and deploying with Docker and CI/CD pipelines.
+stack:
+  languages   : [Python, Java, JavaScript]
+  frontend    : [React, React Native, Next.js]
+  backend     : [Django, FastAPI, Node.js, Spring]
+  databases   : [PostgreSQL, MongoDB, MySQL, Redis]
+  devops      : [Docker, GitHub Actions, CI/CD]
 
-I care deeply about **code quality**, **system design**, and building software that **makes a difference**.
+status:
+  available   : true
+  freelance   : true
+  collaborating: true
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-**Current Projects:**
-- Birth & Death Registration System (FYP)
-- Kwanpa Health Service Platform
-- GETA Solutions Enterprise Backend
+<img src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00f5ff&icon_color=f72585&text_color=ffffff&border_color=7b2ff7&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
 
-**Focus Areas:**
-- Scalable REST API Design
-- Mobile-first React Native Development
-- Cloud-native DevOps & CI/CD
-- Relational & NoSQL Database Architecture
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doanane&theme=radical&background=0d0d0d&ring=00f5ff&fire=f72585&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=7b2ff7" width="100%" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:7b2ff7&height=3&section=header" width="100%"/>
+
 ---
 
-<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                           TECH ARSENAL                                    -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## Tech Stack & Tooling
+# `< TECH ARSENAL />`
 
 </div>
-
-<div align="center">
-
-### Languages
-
-<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge&logo=typescript&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=43C6AC" />
-
----
-
-### Frontend & Mobile
-
-<img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/React_Native-0f2027?style=for-the-badge&logo=react&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-0f2027?style=for-the-badge&logo=next.js&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-0f2027?style=for-the-badge&logo=tailwind-css&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Redux-0f2027?style=for-the-badge&logo=redux&logoColor=43C6AC" />
-
----
-
-### Backend & APIs
-
-<img src="https://img.shields.io/badge/Django-0f2027?style=for-the-badge&logo=django&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=node.js&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Express.js-0f2027?style=for-the-badge&logo=express&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-0f2027?style=for-the-badge&logo=spring-boot&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST_API-0f2027?style=for-the-badge&logo=api&logoColor=43C6AC" />
-
----
-
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQLite-0f2027?style=for-the-badge&logo=sqlite&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Redis-0f2027?style=for-the-badge&logo=redis&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Firebase-0f2027?style=for-the-badge&logo=firebase&logoColor=43C6AC" />
-
----
-
-### DevOps & Infrastructure
-
-<img src="https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub_Actions-0f2027?style=for-the-badge&logo=github-actions&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/CI%2FCD-0f2027?style=for-the-badge&logo=circleci&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Nginx-0f2027?style=for-the-badge&logo=nginx&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=43C6AC" />
-
----
-
-### Tools & Workflow
-
-<img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-0f2027?style=for-the-badge&logo=visual-studio-code&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Postman-0f2027?style=for-the-badge&logo=postman&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-0f2027?style=for-the-badge&logo=figma&logoColor=43C6AC" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jira-0f2027?style=for-the-badge&logo=jira&logoColor=43C6AC" />
-
-</div>
-
----
-
-<!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
-
-<div align="center">
-
-## Featured Projects
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-<h3>Birth & Death Registration System — Backend</h3>
-<img src="https://img.shields.io/badge/Python-Backend-43C6AC?style=flat-square&logo=python&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Django-API-43C6AC?style=flat-square&logo=django&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/FYP-2026-0f2027?style=flat-square" />
-</div>
-
-A full-scale **Final Year Project** — a digital birth and death registration platform built for Ghana's civic infrastructure. The backend powers secure record creation, authentication, and document issuance via a clean Python/Django REST API.
-
-**Highlights:**
-- Secure JWT-based authentication
-- Birth & death record management APIs
-- Role-based access for registrars and admins
-- PostgreSQL data persistence
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/birth-and-death-fyp/Backend)
-</td>
-
-<td width="50%" valign="top">
-<div align="center">
-<h3>Birth & Death Registration System — Frontend</h3>
-<img src="https://img.shields.io/badge/JavaScript-Frontend-43C6AC?style=flat-square&logo=javascript&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-SPA-43C6AC?style=flat-square&logo=react&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/FYP-2026-0f2027?style=flat-square" />
-</div>
-
-The client-facing interface of the Birth & Death Registration System. Built with **React**, it provides a clean and accessible portal for citizens and government officers to interact with the registration system.
-
-**Highlights:**
-- Responsive, accessible UI
-- Dynamic form flows for registration
-- Integrated with backend REST API
-- Role-based dashboard views
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/birth-and-death-fyp/frontend)
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-<h3>Kwanpa Health Service Platform</h3>
-<img src="https://img.shields.io/badge/Python-Backend-43C6AC?style=flat-square&logo=python&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Healthcare-Tech-43C6AC?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Public-Repo-0f2027?style=flat-square" />
-</div>
-
-A healthcare services platform built to streamline medical service delivery. This system handles patient data, service requests, and health record management for the **Kwanpa** health institution.
-
-**Highlights:**
-- Patient registration and health records
-- Service request management
-- Python-powered backend with GitHub Pages deployment
-- Clean API-first architecture
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/doanane/Kwanpa-Health-Service)
-</td>
-
-<td width="50%" valign="top">
-<div align="center">
-<h3>GETA Solutions — Enterprise Backend</h3>
-<img src="https://img.shields.io/badge/JavaScript-Backend-43C6AC?style=flat-square&logo=javascript&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-API-43C6AC?style=flat-square&logo=node.js&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/AB%20Associates-Consulting-0f2027?style=flat-square" />
-</div>
-
-An enterprise-grade backend solution developed under **AB Associates Consulting** for the GETA Solutions platform. Designed to handle complex business logic, data management, and third-party integrations at scale.
-
-**Highlights:**
-- Node.js/JavaScript REST API
-- Enterprise consulting use case
-- Modular, scalable architecture
-- Secure multi-tenant design
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/AB-Associates-Consulting/GETA-Solutions-backend)
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
-
-<div align="center">
-
-## GitHub Statistics
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=dark&bg_color=0f2027&title_color=43C6AC&icon_color=43C6AC&text_color=ffffff&border_color=203a43&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanane&theme=dark&background=0f2027&ring=43C6AC&fire=43C6AC&currStreakLabel=43C6AC&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=203a43" />
+<div align="center">
 
-<br/><br/>
+<!-- LANGUAGES -->
+<table>
+<tr><td align="center" colspan="6">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=dark&bg_color=0f2027&title_color=43C6AC&text_color=ffffff&border_color=203a43&langs_count=8&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0f2027&color=43C6AC&line=2c5364&point=43C6AC&area=true&hide_border=false&border_color=203a43" />
+**── LANGUAGES ──**
+
+</td></tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=python" width="52"/><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=java" width="52"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=javascript" width="52"/><br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=typescript" width="52"/><br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=html" width="52"/><br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=css" width="52"/><br/><sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- FRONTEND -->
+<table>
+<tr><td align="center" colspan="6">
+
+**── FRONTEND & MOBILE ──**
+
+</td></tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=react" width="52"/><br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=react" width="52"/><br/><sub><b>React Native</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="52"/><br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="52"/><br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=redux" width="52"/><br/><sub><b>Redux</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=figma" width="52"/><br/><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- BACKEND -->
+<table>
+<tr><td align="center" colspan="6">
+
+**── BACKEND & APIs ──**
+
+</td></tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=django" width="52"/><br/><sub><b>Django</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="52"/><br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="52"/><br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=express" width="52"/><br/><sub><b>Express</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=spring" width="52"/><br/><sub><b>Spring</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=graphql" width="52"/><br/><sub><b>GraphQL</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- DATABASES -->
+<table>
+<tr><td align="center" colspan="6">
+
+**── DATABASES ──**
+
+</td></tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=postgres" width="52"/><br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=mysql" width="52"/><br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="52"/><br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=redis" width="52"/><br/><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="52"/><br/><sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=firebase" width="52"/><br/><sub><b>Firebase</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- DEVOPS -->
+<table>
+<tr><td align="center" colspan="6">
+
+**── DEVOPS & INFRASTRUCTURE ──**
+
+</td></tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=docker" width="52"/><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="52"/><br/><sub><b>GH Actions</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=linux" width="52"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nginx" width="52"/><br/><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=aws" width="52"/><br/><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=git" width="52"/><br/><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:7b2ff7&height=3&section=header" width="100%"/>
+
 ---
 
-<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=doanane&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
+# `< FEATURED PROJECTS />`
 
 </div>
 
+<br/>
+
+<!-- PROJECT 1 + 2 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_01-FEATURED-f72585?style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+<br/>
+
+### Birth & Death — Backend API
+> Python · Django · PostgreSQL · REST · JWT
+
+A production-grade **national civic registration** system — built as a Final Year Project. Powers secure birth and death record creation, document issuance, and multi-role authentication across government registrar offices.
+
+```
+Tech Used:
+  - Python / Django REST Framework
+  - PostgreSQL data layer
+  - JWT authentication + RBAC
+  - Docker containerised deployment
+  - GitHub Actions CI/CD pipeline
+```
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=00f5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00f5ff)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00f5ff)
+
+<br/>
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPOSITORY-%E2%86%92-f72585?style=for-the-badge&labelColor=0d0d0d)](https://github.com/birth-and-death-fyp/Backend)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_02-FEATURED-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+<br/>
+
+### Birth & Death — Frontend Portal
+> React · JavaScript · REST Integration
+
+The citizen-facing portal for the national registration system. A clean, accessible, and responsive **React SPA** that allows users and government officers to submit, view, and manage vital records.
+
+```
+Tech Used:
+  - React.js (SPA architecture)
+  - Axios REST API integration
+  - Role-based dashboard routing
+  - Mobile-responsive design
+  - Component-driven UI system
+```
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=7b2ff7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=7b2ff7)
+![REST](https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logoColor=7b2ff7)
+
+<br/>
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPOSITORY-%E2%86%92-7b2ff7?style=for-the-badge&labelColor=0d0d0d)](https://github.com/birth-and-death-fyp/frontend)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3 + 4 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_03-FEATURED-00f5ff?style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+<br/>
+
+### Kwanpa Health Service Platform
+> Python · Healthcare Tech · GitHub Pages
+
+A digital healthcare management platform designed to modernise medical service delivery for the **Kwanpa** health institution — handling patient records, service requests, and health data management.
+
+```
+Tech Used:
+  - Python backend
+  - Patient registration system
+  - Service request management
+  - GitHub Pages deployment
+  - API-first architecture
+```
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
+![Healthcare](https://img.shields.io/badge/Healthcare_Tech-0d0d0d?style=flat-square&logoColor=00f5ff)
+![Public](https://img.shields.io/badge/Public_Repo-0d0d0d?style=flat-square&logo=github&logoColor=00f5ff)
+
+<br/>
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPOSITORY-%E2%86%92-00f5ff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/doanane/Kwanpa-Health-Service)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_04-FEATURED-39ff14?style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+<br/>
+
+### GETA Solutions — Enterprise Backend
+> JavaScript · Node.js · AB Associates Consulting
+
+An enterprise backend system built under **AB Associates Consulting** — powering the GETA Solutions platform with complex business logic, scalable API architecture, and third-party service integrations.
+
+```
+Tech Used:
+  - Node.js / Express REST API
+  - Modular enterprise architecture
+  - Multi-tenant secure design
+  - Third-party API integrations
+  - Production deployment pipeline
+```
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=39ff14)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=39ff14)
+
+<br/>
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPOSITORY-%E2%86%92-39ff14?style=for-the-badge&labelColor=0d0d0d)](https://github.com/AB-Associates-Consulting/GETA-Solutions-backend)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:00f5ff&height=3&section=header" width="100%"/>
+
 ---
 
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          STATS COMMAND CENTER                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## Connect With Me
+# `< STATS COMMAND CENTER />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_color=f72585&langs_count=8&count_private=true" />
+&nbsp;
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=f72585&icon_color=00f5ff&text_color=ffffff&border_color=7b2ff7&count_private=true&hide_border=false&rank_icon=percentile" />
+&nbsp;
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanane&theme=radical&background=0d0d0d&ring=f72585&fire=00f5ff&currStreakLabel=f72585&sideLabels=ffffff&currStreakNum=00f5ff&sideNums=ffffff&dates=888888&border=7b2ff7" />
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0d0d0d&color=00f5ff&line=f72585&point=ffffff&area=true&area_color=7b2ff7&hide_border=false&border_color=7b2ff7&radius=8" />
+
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=doanane&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="98%" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:00f5ff&height=3&section=header" width="100%"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                                  -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `< CONTRIBUTION ACTIVITY />`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doanane/doanane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doanane/doanane/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/doanane/doanane/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:f72585&height=3&section=header" width="100%"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT & COLLABORATE                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `< CONNECT & COLLABORATE />`
 
 <br/>
 
 <a href="https://www.linkedin.com/in/desmond-opoku-anane-39b5412b4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Desmond%20Opoku%20Anane-0f2027?style=for-the-badge&logo=linkedin&logoColor=43C6AC&labelColor=203a43" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/OGG_SKIMMER" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-@OGG__SKIMMER-0f2027?style=for-the-badge&logo=x&logoColor=43C6AC&labelColor=203a43" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/doanane" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-@doanane-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC&labelColor=203a43" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Collaborations-Yes-43C6AC?style=for-the-badge&labelColor=0f2027" />
-&nbsp;
-<img src="https://img.shields.io/badge/Freelance-Available-43C6AC?style=for-the-badge&labelColor=0f2027" />
-
-</div>
-
----
-
-<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
-
+  <img src="https://img.shields.io/badge/LinkedIn-Desmond%20Opoku%20Anane-0077B5?style=for-the-badge&logo
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20software%2C%20like%20good%20writing%2C%20is%20rewritten.&author=Joel%20Spolsky" />
 
-</div>
-
----
-
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
-<div align="center">
-  <sub>Crafted with precision by <strong>Desmond Opoku Anane</strong> — 2026</sub>
 </div>
