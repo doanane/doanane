@@ -339,6 +339,8 @@ More projects are in active development across healthcare, civic tech, enterpris
 
 ---
 
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
 <h2>GitHub Statistics</h2>
@@ -351,33 +353,36 @@ More projects are in active development across healthcare, civic tech, enterpris
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-5%2B-00fff7?style=for-the-badge&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Public%20Repos-1-00fff7?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/badge/Private%20Repos-4%2B-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Secondary%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Also%20Builds%20In-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Also%20Builds%20In-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d" />
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-0-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 </td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/ACTIVE%20SINCE-2023-f107a3?style=for-the-badge&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Organisations-3-f107a3?style=for-the-badge&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/birth--and--death--fyp-Org%20Member-00fff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/AB--Associates--Consulting-Org%20Member-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/RunApp--Tech-Org%20Member-3178C6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Contributions-Consistent-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total%20Commits-0-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Pull%20Requests-0-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Issues%20Opened-0-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Current%20Streak-0%20days-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Followers-0-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Public%20Repos-0-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Private%20Repos-0-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Last%20Updated-never-444444?style=for-the-badge&labelColor=0d0d0d" />
 </td>
 </tr>
 </table>
@@ -412,28 +417,33 @@ More projects are in active development across healthcare, civic tech, enterpris
 </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Contribution Activity</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
 <br/>
 
-<img src="https://img.shields.io/badge/DOMAINS%20WORKED%20IN-0d0d0d?style=for-the-badge&labelColor=f107a3&color=f107a3" />
+<div align="center">
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0d0d0d&color=00f5ff&line=f72585&point=ffffff&area=true&area_color=7b2ff720&hide_border=false&border_color=7b2ff7&radius=8&custom_title=Desmond%20Opoku%20Anane%20%E2%80%94%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Healthcare%20Tech-Active-00fff7?style=for-the-badge&labelColor=0d0d0d" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Civic%20Tech-Active-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Enterprise%20SaaS-Active-f107a3?style=for-the-badge&labelColor=0d0d0d" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Web%20Platforms-Active-ffb347?style=for-the-badge&labelColor=0d0d0d" />
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doanane/doanane/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doanane/doanane/output/snake-light.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/doanane/doanane/output/snake-dark.svg" width="98%" />
+</picture>
 
 </div>
 
