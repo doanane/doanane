@@ -350,7 +350,7 @@ More projects are in active development across healthcare, civic tech, enterpris
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-5%2B-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-50%2B-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Public%20Repos-1-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
