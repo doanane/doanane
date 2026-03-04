@@ -77,7 +77,7 @@ REST API Design, Microservices,<br/>Django, FastAPI, Spring Boot,<br/>Node.js, J
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Frontend%20%26%20Mobile-Expert-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
-React, React Native, Next.js,<br/>TypeScript, Redux, Tailwind CSS,<br/>Responsive UI Design
+React, React Native,<br/>TypeScript, Redux, Tailwind CSS,<br/>Responsive UI Design
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-Proficient-f107a3?style=for-the-badge&labelColor=0d0d0d" />
@@ -127,8 +127,7 @@ Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestratio
 &nbsp;
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -306,8 +305,7 @@ Enterprise-grade backend for GETA Solutions developed under AB Associates Consul
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 &nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/RunApp%20Tech-250840480?style=flat-square" />
 <br/><br/>
 A modern web frontend for the CorisMeso platform built under RunApp Tech. Engineered with TypeScript for strong type safety and maintainability, delivering a fast, responsive and polished user experience across devices.
